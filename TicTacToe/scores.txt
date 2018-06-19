@@ -1,0 +1,4 @@
+4		katy
+4		pame
+3		daniel
+3		dani
